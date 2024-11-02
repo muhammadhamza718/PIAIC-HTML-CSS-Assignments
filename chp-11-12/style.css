@@ -1,0 +1,33 @@
+h4 {
+    font: 1.5em verdana;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+    font: 17px Roboto;
+    letter-spacing: 1px;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.628);
+}
+
+h3 {
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+p {
+    font-family: arial;
+    font-size: 0.9em;
+}
+
+.strong {
+    font: 1.6em verdana;
+    font-weight: bold;
+}
+
+.italic {
+    font: roboto;
+    font-style: italic;
+    font-family: serif;
+}
